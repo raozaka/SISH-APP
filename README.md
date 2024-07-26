@@ -3,3 +3,4 @@
 
 2: Run Following Command To Start The Project:
 	streamlit run app.py --server.maxUploadSize=2048
+3: import tensorflow as tf
