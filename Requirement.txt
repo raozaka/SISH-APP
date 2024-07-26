@@ -3,4 +3,10 @@
 
 2: Run Following Command To Start The Project:
 	streamlit run app.py --server.maxUploadSize=2048
-3: import tensorflow as tf
+3: import streamlit as st
+4: import numpy as np
+5: import tensorflow as tf
+6: from streamlit_cropper import st_cropper
+7: from PIL import Image
+8: import PIL
+9: import os
